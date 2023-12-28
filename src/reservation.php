@@ -11,6 +11,7 @@
   <title>Africa Cup of Nations Cote d'Ivoire 23</title>
   <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="script.js">
 </head>
 <header>
 
@@ -22,7 +23,7 @@
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
   <a href="https://flowbite.com/" class="flex items-center space-x-3 rtl:space-x-reverse">
       <img src="../img/logo-en.svg" class="h-8" alt="Flowbite Logo">
-      <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Flowbite</span>
+      <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"></span>
   </a>
   <div class="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
       <!-- <button type="button" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Login</button> -->
@@ -61,30 +62,50 @@
       >
         <img
           class="lg:w-9/12 md:w-9/12 object-cover object-center rounded-lg md:mt-0 mt-12"
-          src="../img/bg.png"
-          alt="step"
-        />
+          src="../img/skysports-afcon-tv-rights_5615682.jpg"
+          alt="step"/>
       </div>
 </section>
 
 
-<div class="w-full max-w-sm bg-white border border-green-900 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 rounded-t-md rounded-b-none overflow-hidden">
-    <div class="px-4 py-4">
-        <div class="flex items-center">
-            <a href="#" class="flex items-center">
-                <img src="../img/icons8-date-50.png" alt="" class="w-6 h-6 mr-2">
-                <h5 class="text-lg font-semibold tracking-tight text-gray-900 dark:text-white">13 Jan, Fri - 11 Fib, Sun</h5>
-            </a>
-        </div>
-        <div class="mt-2">
-            Billets à partir de:
-        </div>
-        <div class="flex items-center justify-between mt-3">
-            <span class="text-xl font-bold text-gray-900 dark:text-white">599 MAD</span>
-            <a href="#" class="text-white bg-yellow-400 hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-300 font-medium rounded-lg text-sm px-4 py-2.5 text-center dark:bg-yellow-800 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800">Acheter</a>
+
+
+<div class="flex justify-end top-20 sticky" style="margin-right: 11rem; height: 20% ">
+    <div class="w-full max-w-sm bg-white border border-green-900 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 rounded-t-md rounded-b-none overflow-hidden"  style="border-radius: 8px;">
+        <div class="px-4 py-4">
+            <div class="flex items-center">
+                <a href="#" class="flex items-center">
+                    <img src="../img/icons8-date-50.png" alt="" class="w-6 h-6 mr-2">
+                    <h5 class="text-lg font-semibold tracking-tight text-gray-900 dark:text-white">13 Jan, Fri - 11 Feb, Sun</h5>
+                </a>
+            </div>
+            <div class="mt-2">
+                Billets à partir de:
+            </div>
+            <div class="flex items-center justify-between mt-3">
+                <span class="text-xl font-bold text-gray-900 dark:text-white">599 MAD</span>
+                <a href="#" class="text-white bg-yellow-400 hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-300 font-medium rounded-lg text-sm px-4 py-2.5 text-center dark:bg-yellow-800 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800">Acheter</a>
+            </div>
         </div>
     </div>
 </div>
+
+<div class="px-4 pt-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
+<div class="">
+
+        <h2 class="text-3xl font-bold text-white">Morocco vs Tanzania</h2>
+        <p class="text-lg text-dark-400">Stade de San Pédro</p>
+        <p class="text-lg text-daek-400">December 01, 2022 - 20.00</p>
+        <h3 class="text-2xl font-semibold text-white">Match Information</h3>
+        <p class="text-lg text-dark-400">Lorem ipsum dolor sit amet consectetur. </br>
+          Vel volutpat in risus leo erat. Morbi morbi nec urna tellus, Posuere nibh </br> 
+          cum commodo quam gravida rhoncus. Tellus sem interdum hendrerit imperdiet  </br>
+          maecenas nulla placerat risus. Lectus nullam parturient turpis eget aliquet </br>
+           porttitor lacus senectus massa. Dui nunc semper </br>eget rhoncus. Vel sed dolor et amet tellus eget.</p>
+</div>
+</div>
+<div>
+
 
 
 <div class="px-4 pt-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
