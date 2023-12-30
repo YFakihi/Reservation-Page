@@ -76,7 +76,7 @@
             <div class="flex items-center">
                 <a href="#" class="flex items-center">
                     <img src="../img/icons8-date-50.png" alt="" class="w-6 h-6 mr-2">
-                    <h5 class="text-lg font-semibold tracking-tight text-gray-900 dark:text-white">13 Jan, Fri - 11 Feb, Sun</h5>
+                    <h5 class="text-lg font-semibold tracking-tight text-gray-900 dark:text-white">13 Jan, fid - 11 Feb, Sun</h5>
                 </a>
             </div>
             <div class="mt-2">
