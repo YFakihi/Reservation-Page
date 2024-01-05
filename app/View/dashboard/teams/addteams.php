@@ -53,7 +53,7 @@
                         </div>
 
                         <div class="overflow-x-auto">
-                        <form enctype="multipart/form-data" action="../addteams" method="POST">
+                        <form enctype="multipart/form-data" action="addteams" method="POST">
                                 <div class="md:grid-cols-2 gap-4 mb-4">
                                     <input type="text" placeholder="id team" name="id" class="border p-2 rounded w-full">
                                 </div>
